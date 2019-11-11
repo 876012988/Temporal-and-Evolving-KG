@@ -12,7 +12,7 @@
 
 3. [Diachronic Embedding for Temporal Knowledge Graph Completion] [arxiv 2019] [[Paper]](https://arxiv.org/abs/1907.03143)[[Code]]()
 
-4. [Towards Time-Aware Knowledge Graph Completion] [arxiv 2019] [[Paper]](https://arxiv.org/abs/1910.06708)[[Code]]()
+4. [Efficiently Embedding Dynamic Knowledge Graphs] [arxiv 2019] [[Paper]](https://arxiv.org/abs/1910.06708)[[Code]]()
 
 5. [Learning Sequence Encoders for Temporal Knowledge Graph Completion] [EMNLP 2018] [[Paper]](https://www.aclweb.org/anthology/D18-1516/)[[Code]](https://github.com/bsantraigi/TA_TransE)
 
