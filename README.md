@@ -1,10 +1,17 @@
 # Temporal and Evolving KG
 
-#Survey
+
+  * [Survey](#Survey)
+  * [Requirements](#requirements)
+  * [Quickstart](#quickstart)
+  * [Citation](#citation)
+
+
+## Survey
 --------------------------------------------
 1. [Relational Representation Learning for Dynamic (Knowledge) Graphs: A Survey] [arxiv 2019] [[Paper]](https://arxiv.org/abs/1905.11485)
 
-#Dynamic Knowledge Graph
+# Dynamic Knowledge Graph
 --------------------------------------------
 1. [Graph WaveNet for Deep Spatial-Temporal Graph Modeling] [IJCAI 2019] [[Paper]](https://www.ijcai.org/proceedings/2019/0264.pdf)[[Code]](https://github.com/nnzhan/Graph-WaveNet)
 
