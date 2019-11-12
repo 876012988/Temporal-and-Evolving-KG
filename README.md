@@ -7,9 +7,8 @@ Table of Contents
 =================
 
   * [Survey](#Survey)
-  * [Requirements](#requirements)
-  * [Quickstart](#quickstart)
-  * [Citation](#citation)
+  * [Dynamic Knowledge Graph](#Dynamic Knowledge Graph)
+  * [Dynamic Graph](#Dynamic Graph)
 
 
 ## Survey
