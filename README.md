@@ -7,8 +7,8 @@ Table of Contents
 =================
 
   * [Survey](#Survey)
-  * [Dynamic_Knowledge_Graph](#Dynamic_Knowledge_Graph)
-  * [Dynamic Graph](#Dynamic Graph)
+  * [Dynamic Knowledge Graph](#Dynamic_Knowledge_Graph)
+  * [Dynamic Graph](#Dynamic_Graph)
 
 
 ## Survey
@@ -43,7 +43,7 @@ Table of Contents
 13. [Time-aware Reasoning in Uncertain Knowledge Bases] [VLDB 2010] [[Paper]](http://halma.mpi-inf.mpg.de/intranet/ag5/ag5publ.nsf/3561a79a83e6557ac1256b91004f4bdd/65e353035499f7f5c125780b00530dd9!OpenDocument&ExpandSection=1)[[Code]]()
 
 
-## Dynamic Graph
+## Dynamic_Graph
 1. [Dynamic Graph Representation Learning via Self-Attention Networks] [ICLR 2019] [[Paper]](https://arxiv.org/abs/1812.09430)[[Code]](https://github.com/aravindsankar28/DySAT)
 
 2. [DYREP: LEARNING REPRESENTATIONS OVER DYNAMIC GRAPHS] [ICLR 2019] [[Paper]](https://openreview.net/pdf?id=HyePrhR5KX)[[Code]]()
