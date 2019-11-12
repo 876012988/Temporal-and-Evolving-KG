@@ -1,6 +1,9 @@
 # Temporal and Evolving KG
 
 
+Table of Contents
+=================
+
   * [Survey](#Survey)
   * [Requirements](#requirements)
   * [Quickstart](#quickstart)
@@ -8,7 +11,6 @@
 
 
 ## Survey
---------------------------------------------
 1. [Relational Representation Learning for Dynamic (Knowledge) Graphs: A Survey] [arxiv 2019] [[Paper]](https://arxiv.org/abs/1905.11485)
 
 # Dynamic Knowledge Graph
