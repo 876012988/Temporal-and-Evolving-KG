@@ -1,5 +1,7 @@
 # Temporal and Evolving KG
 
+Here, we are concentrate on collection of research papers involving the topics, including Dynamic Knowledge Graph, Dynamic Knowledge Graph.   
+
 
 Table of Contents
 =================
@@ -13,8 +15,8 @@ Table of Contents
 ## Survey
 1. [Relational Representation Learning for Dynamic (Knowledge) Graphs: A Survey] [arxiv 2019] [[Paper]](https://arxiv.org/abs/1905.11485)
 
-# Dynamic Knowledge Graph
---------------------------------------------
+
+## Dynamic Knowledge Graph
 1. [Graph WaveNet for Deep Spatial-Temporal Graph Modeling] [IJCAI 2019] [[Paper]](https://www.ijcai.org/proceedings/2019/0264.pdf)[[Code]](https://github.com/nnzhan/Graph-WaveNet)
 
 2. [Recurrent Event Network: Global Structure Inference over Temporal Knowledge Graph] [ICLR 2019] [[Paper]](https://arxiv.org/abs/1904.05530?context=cs.LG)[[Code]](https://github.com/INK-USC/RE-Net)
@@ -42,8 +44,7 @@ Table of Contents
 13. [Time-aware Reasoning in Uncertain Knowledge Bases] [VLDB 2010] [[Paper]](http://halma.mpi-inf.mpg.de/intranet/ag5/ag5publ.nsf/3561a79a83e6557ac1256b91004f4bdd/65e353035499f7f5c125780b00530dd9!OpenDocument&ExpandSection=1)[[Code]]()
 
 
-#Dynamic Graph
---------------------------------------------
+## Dynamic Graph
 1. [Dynamic Graph Representation Learning via Self-Attention Networks] [ICLR 2019] [[Paper]](https://arxiv.org/abs/1812.09430)[[Code]](https://github.com/aravindsankar28/DySAT)
 
 2. [DYREP: LEARNING REPRESENTATIONS OVER DYNAMIC GRAPHS] [ICLR 2019] [[Paper]](https://openreview.net/pdf?id=HyePrhR5KX)[[Code]]()
