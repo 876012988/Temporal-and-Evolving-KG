@@ -51,4 +51,3 @@ Table of Contents
 3. [Learning Temporal Attention in Dynamic Graphs with Bilinear Interactions] [arxiv 2019] [[Paper]](https://arxiv.org/pdf/1909.10367v1.pdf)[[Code]](https://github.com/uoguelph-mlrg/LDG)
 
 4. [EvolveGCN: Evolving Graph Convolutional Networks for Dynamic Graphs] [arxiv 2019] [[Paper]](https://arxiv.org/pdf/1902.10191.pdf)[[Code]]()
-
