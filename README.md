@@ -34,7 +34,7 @@ Table of Contents
 
 9. [Know-Evolve: Deep Temporal Reasoning for Dynamic Knowledge Graphs] [ICML 2017] [[Paper]](https://arxiv.org/pdf/1705.05742.pdf)[[Code]](https://github.com/rstriv/Know-Evolve)
 
-10. [Encoding Temporal Information for Time-Aware Link Prediction] [EMNLP 2016] [[Paper]](https://tyliupku.github.io/papers/emnlp2016_jiang.pdf)[[Code]]()
+10. [Encoding Temporal Information for Time-Aware Link Prediction] [EMNLP 2016] [[Paper]](https://tyliupku.github.io/papers/emnlp2016_jiang.pdf)
 
 11. [Towards Time-Aware Knowledge Graph Completion] [COLING 2016] [[Paper]](https://www.aclweb.org/anthology/C16-1161.pdf)[[Code]]()
 
